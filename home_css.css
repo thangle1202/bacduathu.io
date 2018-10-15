@@ -36,7 +36,7 @@
 }
 #footer{
 	width: 100%;
-	height: 50px;
+	height: 80px;
 }
 #imgbus{
 	width: 70px;
@@ -178,7 +178,7 @@
 }
 #footer{
 	text-align: center;
-	padding-top: 50px;
+	padding-top: 30px;
 }
 #allpage{
 	margin: auto;
@@ -193,4 +193,38 @@
 	margin: auto;
 	width: 40%;
 	text-align: center;
+}
+.picture{
+	height: 280px;
+	width: 300px;
+}
+.chap{
+	color: #17a554;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Verdana, sans-serif;
+}
+#cr{
+	margin: auto;
+	width: 50%;
+}
+#bodyfix{
+	width: 80%;
+	height: 900px;
+	margin: auto;
+}
+#welcome{
+	width: 70px;
+	height: 70px;
+}
+#trangdau{
+	height: 500px;
+	margin: auto;
+	width: 90%;
+	text-align: center;
+	margin-top: 300px;
+}
+.say{
+	color: #8f6d3d;
+	font-family: Verdana, sans-serif;
 }
